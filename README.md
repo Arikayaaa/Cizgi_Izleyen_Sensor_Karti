@@ -1,5 +1,5 @@
 # Cizgi_Izleyen_Sensor_Karti
-Hem analog hem digital cikis verebilen cizgi izleyen sensor
+## Hem analog hem digital cikis verebilen cizgi izleyen sensor
 
 ![Schmatic](https://user-images.githubusercontent.com/38187643/174645045-38e463af-1e5d-4ac5-877f-3da0a3f9e438.PNG)
 ![PCB_Top](https://user-images.githubusercontent.com/38187643/174645052-4d054af5-0d7f-456e-9e82-f4b6a4e5b558.PNG)
